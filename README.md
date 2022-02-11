@@ -1,1 +1,1 @@
-# spark_exercises
+# Learning Spark through exercises in this repo
